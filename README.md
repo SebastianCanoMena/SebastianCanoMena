@@ -1,8 +1,6 @@
 # Hi there 👋
 
-![c++]([http://url/to/img.png](https://brandslogos.com/wp-content/uploads/images/large/c-logo.png))
-
-### I am mainly a self-taught student, although I am also studying the technical computer career, which UNAM offers to its high school students
+ I am mainly a self-taught student, although I am also studying the technical computer career, which UNAM offers to its high school students
 
 
 <!--
