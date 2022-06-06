@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+## I am mainly a self-taught student, although I am also studying the technical computer career, which UNAM offers to its high school students
+
 
 <!--
 **SebastianCanoMena/SebastianCanoMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
