@@ -1,8 +1,5 @@
 # Hi there 👋
 
- -I am mainly a self-taught student <br>
- -I was part of a fullstack developer training called LaunchX <br>
- -I am currently studying the technical computer career, which UNAM offers to its high school students <br>
 
 
 <!--
